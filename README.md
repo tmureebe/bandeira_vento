@@ -16,5 +16,3 @@ Comece pelo [guia ilustrado de construção](Guia%20de%20constru%C3%A7%C3%A3o%20
 ## Licença
 
 A documentação de hardware do projeto, incluindo o modelo OpenSCAD, a cena Blender, o guia e os dois estudos técnicos, é licenciada sob a **TAPR Noncommercial Hardware License 1.0**. Consulte o [texto integral em inglês](LICENSE.txt) ou o [PDF publicado pela TAPR](https://files.tapr.org/OHL/TAPR_Noncommercial_Hardware_License_v1.0.pdf).
-
-O arquivo `PL-5820-2026.pdf` é um documento da Câmara dos Deputados e fica fora do escopo da licença do projeto.
