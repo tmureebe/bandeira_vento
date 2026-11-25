@@ -12,7 +12,6 @@ Comece pelo [guia ilustrado de construção](Guia%20de%20constru%C3%A7%C3%A3o%20
 - [Cena animada do Blender](Bandeira%20de%20seis%20pontos.blend) — abra no Blender 5.3 e pressione **Espaço**. O arquivo inclui o cache Cloth e a textura UV da estampa fictícia. A câmera mostra o pano se curvando sob vento frontal e a redução dessa curvatura quando a armação gira 86°, com o vento mantido na mesma direção.
 - [Geometria e funcionamento](Bandeira_de_seis_pontos.pdf) — vistas do conjunto, detalhe das fixações e corte do pivô com o reservatório circular do modelo.
 - [Estudo de tombamento](Tombamento_bandeira_giratoria.pdf) — comparação por simulação com uma bandeira de vento convencional, com pivô livre e travado.
-- [PL 5.820/2026](PL-5820-2026.pdf) — documento legislativo incluído como referência de contexto.
 
 ## Licença
 
